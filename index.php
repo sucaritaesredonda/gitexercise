@@ -6,5 +6,6 @@ echo "$firstNumber - $secondNumber";
 echo "$firstNumber * $secondNumber"
 echo "$firstNumber / $secondNumber"
 echo "$firstNumber"
+echo $varf
 
 ?>
