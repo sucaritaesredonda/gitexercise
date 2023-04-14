@@ -5,5 +5,11 @@ echo "$firstNumber + $secondNumber";
 echo "$firstNumber - $secondNumber";
 echo "$firstNumber * $secondNumber"
 echo "$firstNumber / $secondNumber"
+<<<<<<< HEAD
 echo "$firstNumber";
+=======
+echo "$firstNumber"
+echo $varf
+
+>>>>>>> master
 ?>
